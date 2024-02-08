@@ -71,8 +71,8 @@ export const Squeeze = () =>{
             <TableWrapper urls={urls}/>
             
             <div>
-                <button onClick={()=>prevPage()}>Предыдущие 5</button>
-                 <button onClick={()=>nextPage()}>Следующие 5</button>
+                <button onClick={()=>prevPage()}>Предыдущие 10</button>
+                 <button onClick={()=>nextPage()}>Следующие 10</button>
             </div>
             
         </div> 
