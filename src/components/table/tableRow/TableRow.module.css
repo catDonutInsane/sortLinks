@@ -1,0 +1,9 @@
+.wrapper{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.c2 button{
+    visibility:hidden;
+}

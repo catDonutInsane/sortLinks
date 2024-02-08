@@ -1,0 +1,17 @@
+.btn{
+    width: 150px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    background: lightblue;
+}
+.btn:hover{
+    background: rgb(100, 148, 148);
+}
+.wrapper{
+    display: flex;
+    width: 350px;
+    height: 40px;
+    align-items: center;
+    justify-content: space-between;
+}

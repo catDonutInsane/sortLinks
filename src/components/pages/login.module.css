@@ -1,0 +1,14 @@
+.loginWrapper{
+    margin: 0 auto;;
+    width: 400px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items:center;
+}
+.loginInput{
+    height: 40px;
+    border-radius: 10px;
+    padding: 6px;
+}
